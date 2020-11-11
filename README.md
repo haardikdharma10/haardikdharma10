@@ -6,7 +6,7 @@
   
 ### Something about me:
 
-<p><b>I'm a sophomore pursuing Bachelor's in Computer Science from [MIT World Peace University](https://mitwpu.edu.in/). I am a passionate learner, an open-source enthusiast and love to explore new technologies and leverage them to solve real-world problems. I’m diligent, pragmatic and a detail-oriented person, keeping my goals and tasks organized to maintain productivity.</b></p>
+I'm a sophomore pursuing Bachelor's in Computer Science from [MIT World Peace University](https://mitwpu.edu.in/). I am a passionate learner, an open-source enthusiast and love to explore new technologies and leverage them to solve real-world problems. I’m diligent, pragmatic and a detail-oriented person, keeping my goals and tasks organized to maintain productivity.
 
 ### Languages and Tools:
 
