@@ -6,8 +6,6 @@
   
 ### Something about me:
 
-<img align="right" src="https://github.com/haardikdharma10/haardikdharma10/blob/main/giphy.gif">
-
 I'm a pre-final year student pursuing Bachelor's in Computer Science and Engineering from MIT World Peace University. I am a passionate learner, an open-source enthusiast and love to explore new technologies and leverage them to solve real-world problems. I’m diligent, pragmatic and a detail-oriented person, keeping my goals and tasks organized to maintain productivity.
 
 ### Languages and Tools:
